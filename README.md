@@ -1,34 +1,31 @@
-# README Generator ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# HW-Challenge-9-README-Generator
 
-  ## This is a README generator
-  
-  ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
-  
-  
-  ### Installation
-    Enter installation instructions here
-  
-  ### Usage
-    Enter usage information here
-  
-  ### License
-    MIT
-  
-  ### Contributing
-    Enter contribution guidelines here
-  
-  ### Tests
-    Enter test instructions here
-  
-  ### Questions
-    My GitHub username is pg1219
+## Description
 
-    If you have any other questions I can be reached by email at Enter email here
-  
+Our objective this assignment was to create a README generator.
 
+Main Objectives: 
+
+- When given a command-line application I am prompted for information about my application repository
+- After I enter the information, a professional README file is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+- The data entered is shown under the corresponding section of the README
+- When a I choose from the list of License options, the chosen option apperas near the top of the file
+- When I enter my GitHub and Email they are added to the Question section of the file
+- When I click on a link in the Table of Contents I am taken to the corresponding section of the README
+- 
+
+
+
+## Links
+
+Application: https://drive.google.com/file/d/1NkDgqi9M0TQYA1yY-4zcNIUXHmdElDCi/view
+
+Repo: https://github.com/pg1219/HW-Challenge-9-README-GeneratorLinks
+
+Sample README: 
+
+## Mock-Up
+
+Preview image of deployed application
+
+![alt](./hw9mockup.png)
