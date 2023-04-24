@@ -1,6 +1,6 @@
-# test ![License](https://img.shields.io/badge/License-APACHE-blue.svg)
+# README Generator ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-  ## test
+  ## This is a README generator
   
   ## Table of Contents
   - [Installation](#installation)
@@ -12,23 +12,23 @@
   
   
   ### Installation
-    test
+    Enter installation instructions here
   
   ### Usage
-    test
+    Enter usage information here
   
   ### License
-    APACHE
+    MIT
   
   ### Contributing
-    test
+    Enter contribution guidelines here
   
   ### Tests
-    test
+    Enter test instructions here
   
   ### Questions
-    My GitHub username is test
+    My GitHub username is pg1219
 
-    If you have any other questions I can be reached by email at test
+    If you have any other questions I can be reached by email at Enter email here
   
 
