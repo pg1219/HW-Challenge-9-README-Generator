@@ -5,17 +5,6 @@ const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown.js");
 
 // TODO: Create an array of questions for user input
-const questions = ({
-  Title,
-  Installation,
-  Usage,
-  License,
-  Contributing,
-  Tests,
-  Github,
-  Email,
-}) 
-
 
 inquirer.prompt([
     {
@@ -60,14 +49,15 @@ inquirer.prompt([
       name: "email",
     },
   ])
-  .then((answers) => {
-    const response = questions(answers);
-    console.log(answers);
-
-    fs.writeFile("README.md", response, (error) => {
+  .then((data) => {
+    const response = data.name;
+    console.log(data);
+    
+    fs.writeFile("README.md", generateMarkdown(response), (error) => {
       error ? console.log(error) : console.log("successfully wrote file");
     });
   });
+  
 
 
 
