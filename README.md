@@ -12,7 +12,7 @@ Main Objectives:
 - When a I choose from the list of License options, the chosen option apperas near the top of the file
 - When I enter my GitHub and Email they are added to the Question section of the file
 - When I click on a link in the Table of Contents I am taken to the corresponding section of the README
-- 
+
 
 
 
@@ -22,7 +22,7 @@ Application: https://drive.google.com/file/d/1NkDgqi9M0TQYA1yY-4zcNIUXHmdElDCi/v
 
 Repo: https://github.com/pg1219/HW-Challenge-9-README-GeneratorLinks
 
-Sample README: 
+Sample README: https://github.com/pg1219/HW-Challenge-9-README-Generator/tree/main/sample
 
 ## Mock-Up
 
