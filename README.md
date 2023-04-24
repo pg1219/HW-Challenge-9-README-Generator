@@ -15,12 +15,11 @@ Main Objectives:
 
 
 
-
 ## Links
 
 Application: https://drive.google.com/file/d/1NkDgqi9M0TQYA1yY-4zcNIUXHmdElDCi/view
 
-Repo: https://github.com/pg1219/HW-Challenge-9-README-GeneratorLinks
+Repo: https://github.com/pg1219/HW-Challenge-9-README-Generator
 
 Sample README: https://github.com/pg1219/HW-Challenge-9-README-Generator/tree/main/sample
 
